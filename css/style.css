@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+body {
+	font-family: 'Lato';
+	font-weight: 400;
+	font-size: 22px;
+	background-color: rgb(41, 128, 185);
+}
+
+#get-joke {
+	padding: 15px;
+	background-color: rgb(192, 57, 43);
+	color: rgb(236, 240, 241);
+	border: 0;
+	margin: 100px 0 0 650px;
+	font-weight: 700;
+}
+
+#get-joke:hover {
+	background-color: rgb(231, 76, 60);
+	cursor: pointer;
+}
+
+#joke {
+	margin-top: 100px;
+	text-align: center;
+	font-weight: 700;
+}
+
